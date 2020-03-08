@@ -1,7 +1,7 @@
 #This is a comment
 #Comments help you to understand my code
 
-#Program to return HCF of 2 numbers, num1 and num2
+#Program to return HCF of 2 numbers
 #using Euclid's Division Algorithm
 
 #num1 ---> Number 1
