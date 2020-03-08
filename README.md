@@ -1,4 +1,4 @@
-# HCF
+# HCF using Euclid's Division Algorithm
 Hi, this is my first project. Never used GitHub before.
 
 HCF of 2 numbers with or without steps.
