@@ -1,6 +1,5 @@
-# HCF using Euclid's Division Algorithm
-Hi, this is my first project. Never used GitHub before.
+# HCF of 2 numbers
 
-Finds HCF of 2 numbers with or without steps using Euclid's Division Algorithm. This program could be used to do your homework.
+Prints HCF of 2 numbers using Euclid's Division Algorithm with or without steps. This program could be used to do your homework.
 
 Programmed in Python 3.5.2
